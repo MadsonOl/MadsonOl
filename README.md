@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## :smile: My name's Madson!
+## :smile: My name's Madson.
 ### I'm a System Analisys and Development student at University of Fortaleza!
 ### I love programming, machine learning and data science!!
 
